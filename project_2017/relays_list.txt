@@ -1,0 +1,3 @@
+agwnia,agwnia.csd.uoc.gr,10000
+oneiro,oneiro.csd.uoc.gr,10000
+
